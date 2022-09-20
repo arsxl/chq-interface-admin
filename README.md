@@ -1,7 +1,6 @@
 <p align="center">
  <img width="500" src="https://www.arsal.xyz/CHQLogo.png">
- <h1 align="center">CodersHQ Interface</h1>
- <h2 align="center">Admin Page</h3>
+ <h1 align="center">CodersHQ Interface - Admin Page</h1>
 </p>
 
 <p align="center">
