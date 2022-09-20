@@ -1,7 +1,7 @@
 <p align="center">
  <img width="500" src="https://www.arsal.xyz/CHQLogo.png">
  <h1 align="center">CodersHQ Interface</h1>
- <h3 align="center">Admin Page</h3>
+ <h2 align="center">Admin Page</h3>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 The CodersHQ Interface project aims to build an interface to work with the backend of the project, this is through a Web User-Interface, which will be used to perform various tasks.</p>
 
-<h3 id="adminpage">Admin Page</h3>
+<h3 id="adminpage">:man_technologist: Admin Page</h3>
 <p> The Admin Page is a web interface intended to be connected with the backend of CodersHQ's platform, the functionality that the admin page's interface provides should be, but not limited to:
   <ol>
     <li>Logging in</li>
