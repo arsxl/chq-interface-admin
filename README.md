@@ -13,7 +13,7 @@
 <ol>
   <li><a href="#introduction">Introduction</a></li>
   <li><a href="#adminpage">Admin Page</a></li>
-  <li><a href="#conclusion">General Concerns/Ideas</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
 </ol>
 
 <h2 id="introduction">Introduction</h2>
