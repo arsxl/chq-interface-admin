@@ -33,5 +33,5 @@ To inspire, below will be attached designs which can be used to understand the d
 
 The interface team is not responsible for any backend code.</p>
 
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion">:wave: Conclusion</h2>
 <p>As the development begins, requirements will keep getting clearer and this page will be updated accordingly, any question regarding the Interface project can be directed to Muhammad Arsalan Nawazish</p>
