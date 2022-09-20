@@ -29,7 +29,7 @@ The CodersHQ Interface project aims to build an interface to work with the backe
     <li>Modify Events</li>
     <li>Delete Events</li>
   </ol>
-To inspire, below will be attached designs which can be used to understand the design language expected, the design being looked for. This however does not mean that the designs need to be exactly based on the screenshots provided. Designs can be different and changes can be proposed. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.
+To inspire, below will be attached designs which can be used to understand the design language expected, the design being looked for. This however does not mean that the designs need to be exactly based on the screenshots provided. Designs can be different and changes can be proposed. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration. <br />
 
 <img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
 Screenshot above is a basic design only to give an idea and is not a final design or design specification, end product can be completely different.
