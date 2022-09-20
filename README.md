@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" src="https://www.arsal.xyz/CHQLogo.png">
+ <img width="500" src="https://www.arsal.xyz/CHQAssets/CHQLogoBlackBG.png">
  <h1 align="center">CodersHQ Interface - Admin Page</h1>
 </p>
 
@@ -31,7 +31,10 @@ The CodersHQ Interface project aims to build an interface to work with the backe
   </ol>
 To inspire, below will be attached designs which can be used to understand the design language expected, the design being looked for. This however does not mean that the designs need to be exactly based on the screenshots provided. Designs can be different and changes can be proposed. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.
 
-The interface team is not responsible for any backend code.</p>
+<img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
+Screenshot above is a basic design only to give an idea and is not final design or design specification, end product can be completely different.
+
+(The interface team is not responsible for any backend code.)</p>
 
 <h2 id="conclusion">:wave: Conclusion</h2>
 <p>As the development begins, requirements will keep getting clearer and this page will be updated accordingly, any question regarding the Interface project can be directed to Muhammad Arsalan Nawazish</p>
