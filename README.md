@@ -16,9 +16,9 @@
 </ol>
 
 <h2 id="introduction">Introduction</h2>
-<p>Coders Headquarters (CodersHQ) is a social platform for developers to grow, network, challenge themselves, and gain points by contributing and helping others in this community. This platform was built by the community and for the community. The essence of CodersHq is to inspire everyone to learn to code, share knowledge and learn together.
+<p>Coders Headquarters (CodersHQ) is a social platform for developers to grow, network, challenge themselves, and gain points by contributing and helping others in this community. This platform was built by the community and for the community. The essence of CodersHq is to inspire everyone to learn to code, share knowledge and learn together. <br/>
 
-The CodersHQ Interface project aims to build an interface to work with the backend of the project, this is through a Web User-Interface, which will be used to perform various tasks.</p>
+The CodersHQ Interface project aims to build a Web-User Interface to work with the backend of the project. This will be used to perform various tasks.</p>
 
 <h3 id="adminpage">:man_technologist: Admin Page</h3>
 <p> The Admin Page is a web interface intended to be connected with the backend of CodersHQ's platform, the functionality that the admin page's interface provides should be, but not limited to:
