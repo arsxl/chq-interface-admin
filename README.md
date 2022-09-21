@@ -29,8 +29,7 @@ The CodersHQ Interface project aims to build a Web-User Interface to work with t
     <li>Modify Events</li>
     <li>Delete Events</li>
   </ol>
-To inspire, below will be attached a design which can be used only for inspirational purposes. Nothing in the design depicts the final product and everything has to be considered from scratch. We expect you to release all the creativity inside you in coming up with a beautiful and modern interface for the Admin Page. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.
-
+To inspire, below will be attached a design which can be used only for inspirational purposes. Nothing in the design depicts the final product and everything has to be considered from scratch. We expect you to release all the creativity inside you in coming up with a beautiful and modern interface for the Admin Page. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.<br>
 
 <img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
 <p align="center">THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</p>
