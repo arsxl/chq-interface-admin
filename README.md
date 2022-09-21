@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="https://opensource.org/licenses/MIT" target="_blank"><img width="80" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
- <a href="https://discord.gg/CPQHAZrg8b0" target="_blank"><img width="80" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.gg/X3vZZxK3KQ" target="_blank"><img width="80" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <h2>:memo: Table Of Contents</h2>
@@ -29,11 +29,11 @@ The CodersHQ Interface project aims to build a Web-User Interface to work with t
     <li>Modify Events</li>
     <li>Delete Events</li>
   </ol>
-To inspire, below will be attached designs which can be used to understand the design language expected, the design being looked for. This however does not mean that the designs need to be exactly based on the screenshots provided. Designs can be different and changes can be proposed. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.
+To inspire, below will be attached a design which can be used only for inspirational purposes. Nothing in the design depicts the final product and everything has to be considered from scratch. We expect you to release all the creativity inside you in coming up with a beautiful and modern interface for the Admin Page. Check out <a href="https://dribbble.com/" target="_blank">Dribble</a> for inspiration.
 
 
 <img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
-Screenshot above is a basic design only to give an idea and is not a final design or design specification, end product can be completely different.
+<center>THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</center>
 
 (The interface team is not responsible for any backend code.)</p>
 
