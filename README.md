@@ -33,7 +33,7 @@ To inspire, below will be attached a design which can be used only for inspirati
 
 
 <img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
-<center>THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</center>
+<p align="center">THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</p>
 
 (The interface team is not responsible for any backend code.)</p>
 
