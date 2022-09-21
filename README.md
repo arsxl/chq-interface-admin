@@ -34,9 +34,14 @@ To inspire, below will be attached a design which can be used only for inspirati
 <br>
 
 <img src="https://www.arsal.xyz/CHQAssets/CHQ-AdminPage.png">
-<p align="center">THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</p>
+<p align="center">
+    <uL>
+        <li>THIS DESIGN IS NOT TO BE TAKEN AS A DESIGN SPECIFICATION.</li>
+        <li>The interface team is not responsible for any backend code.</li>
+    </ul>
+</p>
 
-<p>(The interface team is not responsible for any backend code.)</p>
+
 
 <h2 id="conclusion">:wave: Conclusion</h2>
 <p>As the development begins, requirements will keep getting clearer and this page will be updated accordingly, any question regarding the Interface project can be directed to Muhammad Arsalan Nawazish</p>
